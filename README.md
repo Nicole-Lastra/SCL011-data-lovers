@@ -258,16 +258,16 @@ Como parte de la iteración del Proyecto Data Lovers, decidí ahondar en proceso
 
 ## Evaluación Heurística
 
-> Puedes revisar nuestra **evaluación heurística** completa en este[link](https://docs.google.com/spreadsheets/d/1j8w5znNK1Uogu6fi86EmZHy06IMj1ZvcEi7xcYnbeg8/edit#gid=56522017) 🔎
+> Puedes revisar nuestra **evaluación heurística** completa en este [link](https://docs.google.com/spreadsheets/d/1j8w5znNK1Uogu6fi86EmZHy06IMj1ZvcEi7xcYnbeg8/edit#gid=56522017) 🔎
 
 ## Insights del testeo de usuario
 
 ### Test de Usabilidad Nro. 1
 
-**Nombre:** Marcelo Risco
-**Edad:** 31 años
-**Ocupación:** Director de Arte, Agencia D-Marketing.
-**Nivel de Jugador:** 24
+- **Nombre:** Marcelo Risco
+- **Edad:** 31 años
+- **Ocupación:** Director de Arte, Agencia D-Marketing.
+- **Nivel de Jugador:** 24
 
 Como nuestro entrevistado es diseñador gráfico de profesión, entendía de paleta de color y también pudimos con él corroborar criterios de diseño para rectificar que fuera entendible, legible y agradable a la vista.
 
@@ -312,13 +312,13 @@ Esta selección de referentes de diseño pensamos que nos serían útiles en la 
 Estos diseños están pensado a que la página se parezca más a tipo "dashboard" dónde los usuarios puedan encontrar de forma rápida y organizada la información que buscan. 
 También consideramos atractivos y entretenidos cómo se integran, en algunos de nuestros referentes, los charts, que terminan siendo un aporte estético a la página.  
 
-### Referentes de páginas con Charts
+**Referentes de páginas con Charts**
 
 ![Referentes estéticos](https://i.ibb.co/JKjZXLM/Refetenre-1.png)
 ![Referentes estéticos](https://i.ibb.co/6Y6WQsX/Referente-2.png)
 ![Referentes estéticos](https://i.ibb.co/1dqX46x/Referente-3.png)
 
-### Referentes dispositivo móvil
+**Referentes dispositivo móvil**
 
 ![Referentes estéticos](https://i.ibb.co/SB4JxP1/Referente-4.png)
 ![Referentes estéticos](https://i.ibb.co/1bPwCP0/Referente-5.png)
