@@ -220,7 +220,7 @@ Realizamos un testeo de usabilidad con el producto final.
 
 ## **6.1 Nuestro Producto Final**
 
-En el producto final,el usuario puede visualizar en un inicio los 150 pokemons de la region Kanto, pudiendo dar click y observar a mas detalle de las caracteristicas de altura, peso, huevos y promedio de aparición del pokemon,teniendo tambien un menu para visualizarlos por orden alfabetico y poder filtrar a los pokemons por tipo y debilidad, dandole al usuario la informacion sobre cuantos pokemons son de cada tipo y que debilidades tienen.
+En el producto final, el usuario puede visualizar en un inicio los 150 pokemons de la region Kanto, pudiendo dar click y observar a mas detalle de las caracteristicas de altura, peso, huevos y promedio de aparición del pokemon,teniendo tambien un menu para visualizarlos por orden alfabetico y poder filtrar a los pokemons por tipo y debilidad, dandole al usuario la informacion sobre cuantos pokemons son de cada tipo y que debilidades tienen.
 
 
 ![Visualizacion del producto final](https://i.ibb.co/ChWZDg0/Foto-Pokemon.png)
@@ -246,4 +246,4 @@ Tambien se realizó un modelo responsive para que el usuario tambien lo pueda vi
     
 - Añadir noticias y eventos de pokemon Go.
 
-    
+
